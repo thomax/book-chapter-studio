@@ -1,0 +1,19 @@
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+dist
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# macOS finder cache file
+.DS_Store
+
+# VS Code settings
+.vscode
+
+# Lockfiles
+yarn.lock
+package-lock.json
